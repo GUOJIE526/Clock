@@ -1,1 +1,1 @@
-# [Link](https://guojie526.github.io/Clock/)
+[Link](https://guojie526.github.io/Clock/)
